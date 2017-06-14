@@ -6,7 +6,7 @@
     android:layout_height="fill_parent"
     android:background="@drawable/normal">
 
-
+//hi
 
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar"
